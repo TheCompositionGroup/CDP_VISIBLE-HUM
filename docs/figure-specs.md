@@ -9,7 +9,7 @@ One paragraph per figure. Written so one person can draw each without asking que
 - File name: `assets/fig-0N-short-name.svg`.
 - Do not print a loudness (dB) level for any real sound. Where a dB axis is a *filter setting*, label it "filter setting", not "sound level".
 - Plain words first. Define each term once on the figure itself.
-- Do not add the passive visualizer artwork. That is sold separately.
+- Don't commit Fancy Ape's finished visualizer artwork here. The description in Appendix B is free; the finished artwork is sold separately.
 
 **Status check:** Figure 2 is already drawn (`assets/fig-02-room-modes.svg`). Four figures are still missing: 1, 3, 4, 5. Figure 2 uses meters. The text now gives feet first. Consider adding feet to Figure 2 when it is next edited.
 

@@ -398,5 +398,7 @@ This is an Explore-level release. TCG's obligation here is to define the concept
 ---
 
 *The Composition Group LLC · Fancy Ape · Melbourne, FL*
+
 *ANALYTICAL SCREENING GUIDE — NOT FIELD-VALIDATED · NOT A REGULATORY MEASUREMENT PROCEDURE*
-*Released under CC BY-SA 4.0. Guide free, forever. Artwork sold separately.*
+
+*Released under CC BY-SA 4.0. Guide free, forever. Fancy Ape's own finished artwork and prints are not in this repository and are sold separately.*

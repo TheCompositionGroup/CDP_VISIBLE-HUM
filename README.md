@@ -99,4 +99,4 @@ Item 3 is the release gate. Everything else can wait.
 Creative Commons Attribution-ShareAlike 4.0 International.
 https://creativecommons.org/licenses/by-sa/4.0/
 
-The guide is free and stays free. Artwork derived from this work is sold separately and is not committed here.
+The guide is free and stays free. Fancy Ape's own finished artwork and prints are not in this repository and are sold separately.
