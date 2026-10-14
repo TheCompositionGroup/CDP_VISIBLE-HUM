@@ -62,6 +62,14 @@ The v1 and v3 files are **not in this repository yet**. Only their conclusions a
 
 A documented kill is a result.
 
+## Why this matters
+
+We found these cases after the guide was drafted. They show the problem it addresses is real. Each item reports what was alleged or reported. None is a finding about cause or fault.
+
+- **Mount Pleasant, Wisconsin (2026):** a proposed class action argues a data center's low hum isn't captured by standard dBA measurements. ([Wisconsin Law Journal](https://wislawjournal.com/?p=526782))
+- **Loudoun County, Virginia (2023):** more than 40 complaints to the county about a data center, obtained through a public-records request, described sounds including a propeller-like noise and "low-frequency sound." ([Business Insider, Nov 2023 (copy hosted by Prince William County)](https://pwcva.gov/assets/2024-09/Data-Center%20Boom%20Leads%20to%20Noise%20Disruptions%20in%20Loudoun%20County%2C%20Virginia%20-%202.pdf))
+- **Clondalkin, Dublin (2026):** Ireland's EPA opened an investigation after receiving 12 complaints of a low-frequency hum near a data centre. ([The Irish Times](https://www.irishtimes.com/ireland/2026/09/03/an-unrelenting-hum-epa-receives-noise-complaints-about-dublin-data-centre/))
+
 ## Help test this
 
 You don't need to know anything about sound. We need people who hear a hum to try the guide and tell us where it broke.
