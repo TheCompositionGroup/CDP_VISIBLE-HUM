@@ -89,7 +89,7 @@ One-paragraph drawing specs for figures 1, 3, 4 and 5: [`figure-specs.md`](figur
 | `CHANGELOG.md` | Was a stale copy of an old README. Replaced with a real revision history. |
 | Document ID | Done — FA-HUM-001 everywhere |
 | About blurb — still uses withdrawn "resident-owned monitoring" language | OPEN (lives on GitHub, not in this repo) |
-| Visibility | Private. **Must be made public before testers can open a field report** |
+| Visibility | Public (field test) |
 | v2 revision | Not archived; exists only as working text |
 
 ## E. Honest position

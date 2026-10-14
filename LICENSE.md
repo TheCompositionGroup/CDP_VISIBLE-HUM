@@ -15,8 +15,8 @@ provided you give appropriate credit and license your contributions under the sa
 
 ## Artwork
 
-Artwork derived from this work — including the passive visualizer sculpture described in
-Appendix B — is produced and sold separately and is not covered by this license.
+Everything in this repository, including the visualizer description, is free under CC BY-SA 4.0.
+Fancy Ape's own finished artwork and prints are not in this repository and are sold separately.
 
 ## Disclaimer
 

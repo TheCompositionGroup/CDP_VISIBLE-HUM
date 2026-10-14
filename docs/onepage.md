@@ -6,11 +6,12 @@ FA-HUM-001 · The Composition Group LLC — Fancy Ape · CC BY-SA 4.0
 
 > ## ⚠ Unverified seed — no field trial yet
 > Tell us what broke: bananas@fancyape.com
+>
 > **We don't measure how loud your hum is in decibels (dB). A phone can't do that honestly.**
 
 ## Why a test can say "fine"
 
-Many noise tests use a filter called **A-weighting**, a rule that turns some sounds down before they are counted. It turns deep sounds down a lot: the standard meter setting counts a 63 Hz hum as about 26 dB quieter than it is. (Hz measures pitch; a low number is a deep sound. dB measures sound strength.) So a low reading can happen even when a deep hum is real. That doesn't prove a test missed your hum.
+Many noise tests use a filter called **A-weighting**, a rule that turns some sounds down. It turns deep sounds down a lot: the standard meter setting counts a 63 Hz hum as about 26 dB quieter than it is. (Hz measures pitch; a low number is a deep sound. dB measures sound strength.) So a low reading can happen even when a deep hum is real. That doesn't prove a test missed your hum.
 
 ## Try tonight. It costs $0.
 
@@ -19,7 +20,7 @@ Steps 1, 2 and 4 take one evening. Step 3 takes about a week.
 1. **Measure your bedroom** with a tape measure, or step it off heel to toe.
 2. **Find the pitch your room boosts.** Rooms strengthen certain deep pitches (resonance). Divide 563 by a room length in feet; a 13-foot wall gives about 43 Hz. Many bedrooms have resonances between 40 and 70 Hz. Width and height matter too.
 3. **Move your bed.** Deep sound is strongest at walls and in corners, so try two or three spots for a few nights. This changes how loud it is where you sleep. It doesn't remove the source. Each morning, write "better," "worse," or "same."
-4. **Record 60 seconds** on any phone, in the same spot each night. A free sound-graph app can show the pitch. Many phone microphones filter out very low sound. If your phone shows nothing but you still hear it, that's not proof it isn't there — note it in your log.
+4. **Record 60 seconds** on any phone, in the same spot each night. A free sound-graph app can show the pitch. Many phone microphones filter out very low sound. If your phone shows nothing but you still hear it, that's not proof it isn't there — write it down with the date and time.
 
 Steps 2–3 help most for hums from 40 to 80 Hz.
 

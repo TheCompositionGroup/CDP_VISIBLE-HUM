@@ -2,23 +2,21 @@
 
 ### A Seven-Night Screening Guide for Recurring Low-Frequency Hum
 
-**Document:** FA-HUM-001 **Revision:** v4.1 **Date:** 14 OCT 2026
+**Document:** FA-HUM-001 · **Revision:** v4.1.1 · **Date:** 14 OCT 2026
+
 **Originator:** The Composition Group LLC — Fancy Ape · Melbourne, FL
-**Classification:** Advanced Concept Study — Analytical Screening Guide
-**Method:** DMADV, Level 1 Explore
+
 **License:** CC BY-SA 4.0
 
 > **RELEASE STATUS: ANALYTICAL — NOT FIELD-VALIDATED.**
+>
 > No phone configuration has been tested. No field trial has been run. No nontechnical user has completed this guide. See Appendix C for exactly what is unverified and Appendix D for the open work.
 >
 > **Validated configuration: [PHONE MODEL / OS / APP — pending]**
 >
 > This is not a regulatory measurement procedure, and it is not legal, medical, or engineering advice.
 
-*Developed from an investigation of data-center noise. Applicable to recurring low-frequency hum from many possible sources.*
-
-**Evidence codes:** P Primary · S Secondary · A Analytical · E Estimate · X Excluded-Unverified
-**Status labels:** OPEN · TEST PROPOSED · VALIDATED *(this document contains no VALIDATED items)*
+**What this guide does:** it helps you record the pitch, timing, and recurrence of a hum you hear at night, using a phone you already own, for $0. It does not measure how loud the hum is. Tags like [A] and [S] show how well a claim is supported; they are explained under Document notes at the end.
 
 ---
 
@@ -386,6 +384,16 @@ This is an Explore-level release. TCG's obligation here is to define the concept
 **Item 3 is the one TCG should not delegate.** Everything else can wait for a contributor. Untested instructions handed to an exhausted person at 2 a.m. is a different kind of failure from an uncited claim, and it costs one evening to close.
 
 **Honest position on this handoff:** no recipient has been named for this list. Until FancyApe.com's contribution channel exists, the accurate status is *published and open for contribution*, not *handed off*. Section 0 tells a resident not to do seven nights of work without a named reader; the same standard applies to this document.
+
+---
+
+## DOCUMENT NOTES
+
+- **Classification:** Advanced Concept Study — Analytical Screening Guide
+- **Method:** DMADV, Level 1 Explore
+- **Origin:** Developed from an investigation of data-center noise. Applicable to recurring low-frequency hum from many possible sources.
+- **Evidence codes:** P Primary · S Secondary · A Analytical · E Estimate · X Excluded-Unverified
+- **Status labels:** OPEN · TEST PROPOSED · VALIDATED *(this document contains no VALIDATED items)*
 
 ---
 

@@ -4,9 +4,11 @@
 
 > ## ⚠ Unverified seed — no field trial yet
 > This guide has **not** been tested by anyone. No phone, app, or person has run it start to finish. Treat every step as a draft. If something fails or confuses you, that is the result we need — see **Help test this** below.
+>
 > **We don't measure how loud your hum is in decibels (dB). A phone can't do that honestly.**
 
 The Composition Group LLC — Fancy Ape · Melbourne, FL
+
 Document FA-HUM-001 · Licensed CC BY-SA 4.0 · Free forever
 
 ---
@@ -14,7 +16,9 @@ Document FA-HUM-001 · Licensed CC BY-SA 4.0 · Free forever
 ## Status
 
 > **ANALYTICAL — NOT FIELD-VALIDATED.**
+>
 > No phone configuration has been tested. No field trial has been run. No nontechnical reader has completed this guide start to finish.
+>
 > **Validated configuration: [PHONE MODEL / OS / APP — pending]**
 
 Not a regulatory measurement procedure. Not legal, medical, or engineering advice.
@@ -25,7 +29,9 @@ If you hear a persistent hum at night and can't prove it exists, this guide help
 
 It deliberately **does not** claim sound-pressure levels. An uncalibrated phone cannot make a traceable low-frequency dB claim, and one bad number discredits an otherwise sound record. Frequency and time are what consumer hardware does well. That's what this measures.
 
-**Start here → [`docs/guide.md`](docs/guide.md)**
+**Start here → [`docs/onepage.md`](docs/onepage.md)**
+
+Want the full guide? [`docs/guide.md`](docs/guide.md)
 
 Sections 1–3 cost one evening, need no equipment, and may protect you from misdirected spending (replacement windows can cost $3,000–8,000, a rough guess). Section 4 costs seven nights and is only worth doing if you have named someone who will read the result. The guide says so in its first paragraph.
 
