@@ -22,4 +22,4 @@ Appendix B — is produced and sold separately and is not covered by this licens
 
 Provided as-is, without warranty of any kind. This is an analytical screening guide, not
 a regulatory measurement procedure, and not legal, medical, or engineering advice. It has
-not been field-validated. See docs/OPEN_ITEMS.md for what remains unverified.
+not been field-validated. See docs/open-items.md for what remains unverified.
