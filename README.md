@@ -4,7 +4,7 @@
 
 > ## ⚠ Unverified seed — no field trial yet
 > This guide has **not** been tested by anyone. No phone, app, or person has run it start to finish. Treat every step as a draft. If something fails or confuses you, that is the result we need — see **Help test this** below.
-> **No decibel (dB) numbers.** A phone cannot give a trustworthy loudness number. This guide records pitch (frequency) and time only.
+> **We don't measure how loud your hum is in decibels (dB). A phone can't do that honestly.**
 
 The Composition Group LLC — Fancy Ape · Melbourne, FL
 Document FA-HUM-001 · Licensed CC BY-SA 4.0 · Free forever

@@ -3,7 +3,7 @@
 Print or paste into an email. Fill in the [brackets]. Delete this heading and the notes. Keep it to **one page**. Attach the one-page summary and the nightly log from [`log-sheet.md`](log-sheet.md).
 
 > **Unverified seed — no field trial yet.** This template has not been used with a real office. Change it freely.
-> **No decibel (dB) numbers.** Do not add one. A phone cannot give a number you can defend.
+> **We don't measure how loud your hum is in decibels (dB). A phone can't do that honestly.** Do not add a dB number to the letter.
 
 ---
 

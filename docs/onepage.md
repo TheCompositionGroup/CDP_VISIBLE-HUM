@@ -1,40 +1,39 @@
 # MAKE THE HUM VISIBLE
 
-**You hear a hum at night, and the official test says everything is fine. Both can be true.**
+**You hear a hum at night, but an official test says it's fine.**
 
 FA-HUM-001 · The Composition Group LLC — Fancy Ape · CC BY-SA 4.0
 
 > ## ⚠ Unverified seed — no field trial yet
-> Nobody has tested this page, so parts of it may be wrong. Tell us what broke: bananas@fancyape.com
-> **No decibel (dB) numbers.** A phone cannot give a trustworthy loudness number, so this page records pitch and time only.
+> Tell us what broke: bananas@fancyape.com
+> **We don't measure how loud your hum is in decibels (dB). A phone can't do that honestly.**
 
-## Why the test says "fine"
+## Why a test can say "fine"
 
-Most noise tests use a filter called **A-weighting**, which is a rule that turns some sounds down before they are counted. It was built to match everyday sounds, so it turns deep sounds down by a lot. A hum at 63 Hz is counted at only about 1/20 of its real strength. (Hz, or hertz, is how we count pitch, and a low number means a deep sound.) So the test can be correct and still miss your hum.
+Many noise tests use a filter called **A-weighting**, a rule that turns some sounds down before they are counted. It turns deep sounds down a lot: the standard meter setting counts a 63 Hz hum as about 26 dB quieter than it is. (Hz measures pitch; a low number is a deep sound. dB measures sound strength.) So a low reading can happen even when a deep hum is real. That doesn't prove a test missed your hum.
 
 ## Try tonight. It costs $0.
 
-1. **Measure your bedroom** with a tape measure, or step it off heel to toe.
-2. **Find the pitch your room boosts.** Every room strengthens certain deep pitches, which is called resonance. Divide 563 by the room length in feet, so a 13-foot wall gives about 43 Hz. Most bedrooms boost pitches between 40 and 70 Hz.
-3. **Move your bed.** Deep sound is strongest at walls and in corners, so try two or three spots for a few nights each. Each morning, write "better," "worse," or "same."
-4. **Record 60 seconds** on any phone, in the same spot each night. A free app that draws a sound graph can show its pitch.
+Steps 1, 2 and 4 take one evening. Step 3 takes about a week.
 
-Steps 2 and 3 matter most if your hum is between 40 and 80 Hz.
+1. **Measure your bedroom** with a tape measure, or step it off heel to toe.
+2. **Find the pitch your room boosts.** Rooms strengthen certain deep pitches (resonance). Divide 563 by a room length in feet; a 13-foot wall gives about 43 Hz. Many bedrooms have resonances between 40 and 70 Hz. Width and height matter too.
+3. **Move your bed.** Deep sound is strongest at walls and in corners, so try two or three spots for a few nights. This changes how loud it is where you sleep. It doesn't remove the source. Each morning, write "better," "worse," or "same."
+4. **Record 60 seconds** on any phone, in the same spot each night. A free sound-graph app can show the pitch. Many phone microphones filter out very low sound. If your phone shows nothing but you still hear it, that's not proof it isn't there — note it in your log.
+
+Steps 2–3 help most for hums from 40 to 80 Hz.
 
 ## Before you buy new windows
 
-New windows can cost thousands of dollars. ($3,000–8,000 is a rough guess.) Two panes of glass have a weak pitch where they block almost nothing, and with a 4-inch gap that pitch is near 69 Hz, which could be your hum. Find your pitch first, then ask the seller:
+New windows can cost $3,000–8,000 (a rough guess). Two panes of glass have a weak pitch where they block much less. With two 1/4-inch panes and a 4-inch gap, the weak spot is near 70 Hz. Thinner glass moves it higher. Find your pitch first. Then ask:
 
-1. At what pitch is this window weakest?
-2. Can I see lab results for each pitch? (These are called "transmission loss" data.)
-3. How much does it block at **my** pitch?
-
-No pitch-by-pitch results? Be careful, because a one-number score can hide a weak spot.
+1. Can I see lab results for each pitch? (These are called "transmission loss" data.)
+2. How much does it block at **my** pitch? (One score can hide a weak spot.)
 
 ## If you want a record
 
-A record is seven nights of notes about the pitch, the start and stop times, and how many nights it happened. It might say: *"A hum near 119 Hz was detected from 12:20 to 5:00 a.m. on 5 of 7 nights."* It never gives a loudness number.
+A record is seven nights of notes on pitch, start and stop times, and how many nights it happened. Example: *"A hum near 119 Hz, 12:20 to 5:00 a.m., detected on 5 of 7 nights."*
 
-**First, name the person who will read it.** Seven nights is hard work, so if no one will read it, stop after the steps above.
+**First, name the person who will read it.** If no one will read it, stop after the steps above.
 
-*Screening guide only. Not tested. Not an official measurement. Not legal, medical, or engineering advice.*
+*Screening guide only. Not an official measurement. Not legal, medical, or engineering advice.*

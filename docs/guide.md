@@ -71,13 +71,15 @@ Here is an example for a bedroom about 13 × 11.5 × 8.2 feet:
 | 11.5 ft | about 49 Hz |
 | 8.2 ft | about 69 Hz |
 
-Most bedrooms boost pitches between **40 and 70 Hz**.
+Many bedrooms have resonances between **40 and 70 Hz**. Width and height matter too.
 
 Deep sound also tends to be strongest at walls and in corners. Beds are often there.
 
 **Step 5.** Pick two or three safe places to sleep. Use each one for a few nights.
 
 **Step 6.** Each morning, write one word: **better**, **worse**, or **same**.
+
+This changes how loud it is where you sleep. It doesn't remove the source.
 
 **This might not work.** Real rooms are messy. Furniture and doors change things. A spot that calms one pitch can boost another. The middle of the room is not always better.
 
@@ -95,7 +97,7 @@ If it helps, good. Count it as one result from a few nights. Not as a promise.
 
 A window with two panes of glass has a weak spot. At one pitch, it stops almost nothing. The air between the panes acts like a spring. This is called the **mass-air-mass resonance**. (It is the pitch where glass-air-glass starts to shake along together.)
 
-Here is an example. It uses two 6 mm panes:
+Here is an example. It uses two 6 mm (about 1/4-inch) panes:
 
 | Gap between panes | Weak pitch |
 |---|---|
@@ -103,6 +105,8 @@ Here is an example. It uses two 6 mm panes:
 | **4 inches (100 mm)** | **about 69 Hz** |
 | 6 inches (150 mm) | about 57 Hz |
 | 8 inches (200 mm) | about 49 Hz |
+
+With two 1/4-inch panes and a 4-inch gap, the weak spot is near 70 Hz. Thinner glass moves it higher.
 
 **This is a rough guide, not an answer.**
 
@@ -127,9 +131,9 @@ Real windows also depend on the glass, the frame, the seals, and how it was inst
 
 ---
 
-## 3. WHY THE OFFICIAL NUMBER MAY FEEL WRONG
+## 3. WHY AN OFFICIAL NUMBER CAN READ LOW
 
-Did someone test your noise and say it was low? Here is a likely reason it does not match what you feel.
+Did someone test your noise and say it was low? Here is one possible reason. A low number does not, by itself, mean the test missed your hum. The test may have been taken at a different time or place, and a hum can come and go.
 
 Most noise tests use a filter called **A-weighting**. (A filter is a rule that turns some sounds up or down before they are counted.)
 
@@ -149,10 +153,10 @@ Here is how much it turns each pitch down. These are filter settings. They are n
 
 In plain words:
 
-- A hum at 63 Hz is counted at about **1/20** of its real strength.
-- A hum at 125 Hz is counted at about **1/6** of its real strength.
+- The standard meter setting counts a 63 Hz hum as about **26 dB quieter** than it is.
+- It counts a 125 Hz hum as about **16 dB quieter** than it is.
 
-So a report can be low, and correct, and still miss what you live with.
+So a low reading can happen even when a deep hum is real. That alone does not show that a particular test missed your hum.
 
 **This is not a trick.** A-weighting is the right tool for most noise problems. Most laws are written with it, for good reasons. It was just not made for deep hums.
 
@@ -183,6 +187,7 @@ This is a limit on *your phone*, not on affordable measurement generally. A **ca
 - Record **uncompressed (WAV)** where available, to avoid extra codec processing. **WAV does not mean raw** — gain control, noise suppression, and equalization may still be applied by the operating system. **[S]**
 - Turn off automatic gain control, noise suppression, and voice enhancement wherever the app allows.
 - Record at least **60 seconds** per sample.
+- Many phone microphones filter out very low sound. If your phone shows nothing but you still hear it, that's not proof it isn't there — note it in your log.
 - **Same placement every night.** Write it down: room, height above floor, distance from the nearest wall and window, orientation, case on or off, plugged in or not, microphone unobstructed, HVAC on or off.
 
 ### 4.3 Analysis

@@ -2,7 +2,7 @@
 
 > ## ⚠ Unverified seed — no field trial yet
 > Nobody has tested this page. Offices, powers, and rules differ by place. **Check each one before you rely on it.** This is not legal advice.
-> **No decibel (dB) numbers.** Your log gives pitch and time only.
+> **We don't measure how loud your hum is in decibels (dB). A phone can't do that honestly.**
 
 A log does nothing until a person reads it. This page helps you pick that person. A cover letter you can copy is at [`log/cover-letter.md`](../log/cover-letter.md).
 
