@@ -1,6 +1,6 @@
 # MAKE THE HUM VISIBLE
 
-### A Seven-Night Screening Guide for Recurring Low-Frequency Hum
+### A free first investigation: a seven-night screening guide for recurring low-frequency hum.
 
 **Document:** FA-HUM-001 · **Revision:** v4.1.1 · **Date:** 14 OCT 2026
 
@@ -46,20 +46,22 @@ Sending it doesn't guarantee anyone will act. This guide can help you be clear. 
 
 ## 1. WHAT YOU CAN TRY TONIGHT
 
-**Cost: $0. Time: one evening.**
+**Cost: $0. Time: one evening, plus about a week for the bed test (Steps 6 and 7).**
+
+**Step 1. Rule out your own home.** Switch off the fridge, the AC, and then the main breaker for 10 minutes each. Turn each one back on before you switch off the next. If the hum stops, the source is likely inside. Skip this if anyone in your home uses medical equipment, and don't switch off anything unsafe. (Section 4.4 has a longer list of things to check.)
 
 Does the hum seem worse in bed than outside? Your room may be making it stronger.
 
 Every room has deep pitches it boosts. These are called **room resonances**. (The room works like a pipe or a drum.)
 
-**Step 1.** Measure the room's length, width, and height.
+**Step 2.** Measure the room's length, width, and height.
 Use a tape measure if you have one. If not, step it off heel to toe. One shoe is about one foot.
 
-**Step 2.** Take one measurement in feet.
+**Step 3.** Take one measurement in feet.
 
-**Step 3.** Divide 563 by that number. The answer is a pitch in **Hz**. (Hz, or hertz, counts pitch. A low number is a deep sound.)
+**Step 4.** Divide 563 by that number. The answer is a pitch in **Hz**. (Hz, or hertz, counts pitch. A low number is a deep sound.)
 
-**Step 4.** Repeat for the other two measurements.
+**Step 5.** Repeat for the other two measurements.
 
 Here is an example for a bedroom about 13 × 11.5 × 8.2 feet:
 
@@ -73,9 +75,9 @@ Many bedrooms have resonances between **40 and 70 Hz**. Width and height matter 
 
 Deep sound also tends to be strongest at walls and in corners. Beds are often there.
 
-**Step 5.** Pick two or three safe places to sleep. Use each one for a few nights.
+**Step 6.** Pick two or three safe places to sleep. Use each one for a few nights.
 
-**Step 6.** Each morning, write one word: **better**, **worse**, or **same**.
+**Step 7.** Each morning, write one word: **better**, **worse**, or **same**.
 
 This changes how loud it is where you sleep. It doesn't remove the source.
 
